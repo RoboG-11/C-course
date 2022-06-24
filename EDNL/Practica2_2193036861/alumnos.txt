@@ -1,0 +1,28 @@
+Los datos del alumno 1 son...
+Nombre: Brian
+Edad: 25
+Matricula: 2193036861
+Licenciatura: Computacion
+Division: CNI
+
+Los datos del alumno 2 son...
+Nombre: andres
+Edad: 27
+Matricula: 2193036861
+Licenciatura: Computacion
+Division: CNI
+
+Los datos del alumno 3 son...
+Nombre: ramon
+Edad: 20
+Matricula: 2203456798
+Licenciatura: Computacion
+Division: CNI
+
+Los datos del alumno 4 son...
+Nombre: juan
+Edad: 28
+Matricula: 2203456798
+Licenciatura: Computacion
+Division: CNI
+

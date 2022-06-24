@@ -1,0 +1,14 @@
+Los datos del alumno 1 son...
+Nombre: Juan
+Edad: 25
+Matricula: 21036791
+Licenciatura: Comunicacion
+Division: CNI
+
+Los datos del alumno 2 son...
+Nombre: Saul
+Edad: 27
+Matricula: 219476301
+Licenciatura: Socioterritoriales
+Division: CNI
+
