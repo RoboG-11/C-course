@@ -7,6 +7,7 @@
 #include <stdlib.h> //Libreria estandar
 #include <string.h> //Libreria con funciones para strings
 
+
 int main(){ //Función principal
 
     char *p_nombre, *p_nombreCompleto; //Definicion de los punteros
